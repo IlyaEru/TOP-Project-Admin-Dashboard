@@ -2,6 +2,8 @@
 
 ## <a href="https://ilyaeru.github.io/TOP-Project-Admin-Dashboard/">live Preview</a><br>
 
+Dog images by <a href="https://pixabay.com/users/kazzzsat-7677733/">kazzzsat</a>, <a href="https://pixabay.com/users/no-longer-here-19203/">No-longer-here</a>, <a href="https://pixabay.com/users/nachtmahrtv-10360388/">NachtmahrTV</a>, and <a href="https://pixabay.com/users/zimt2003-5558721/">zimt2003</a> from <a href="https://pixabay.com/">pixabay</a>
+
 # _My Work_
 
 ## Web development - <a href="https://www.theodinproject.com/">The Odin Project</a>
