@@ -19,6 +19,7 @@ Dog images by <a href="https://pixabay.com/users/kazzzsat-7677733/">kazzzsat</a>
 - <a href="https://github.com/IlyaEru/TOP-Project-TIC-TAC-TOE">Ninth Project - Tic Tac Toe</a> [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
 - <a href="https://github.com/IlyaEru/TOP-Project-Restaurant-Page">Tenth Project - Restaurant Page</a> [HTML | CSS | JavaScript + ES6 Modules + Webpack]
 - <a href="https://github.com/IlyaEru/TOP-Project-Todo-List">Eleventh Project - Todo List</a> [HTML | CSS | JavaScript + ES6 Modules + Webpack]
+- <a href="https://github.com/IlyaEru/TOP-Project-Weather-App">Twelfth Project - Weather App</a> [HTML | CSS | JavaScript + Webpack + async API]
 
 ## QA
 
@@ -37,3 +38,7 @@ Dog images by <a href="https://pixabay.com/users/kazzzsat-7677733/">kazzzsat</a>
 
 - <a href="https://github.com/IlyaEru/QA-API-Automation-testing-Robot-Cucumber-and-requests">API Automation With Python and RobotFramework | Cucumber | Requests Library</a>
 - <a href="https://github.com/IlyaEru/QA-Web-And-Api-Automation-testing-with-cypress-and-cucumber/tree/master">Web and Api Automation With Cypress</a>
+
+### TDD Testing
+
+- <a href="https://github.com/IlyaEru/TOP-TDD-Testing-Practice">TDD Practice using Jest</a>
