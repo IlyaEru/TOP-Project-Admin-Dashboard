@@ -22,6 +22,8 @@ Dog images by <a href="https://pixabay.com/users/kazzzsat-7677733/">kazzzsat</a>
 - <a href="https://github.com/IlyaEru/TOP-Project-Weather-App">Twelfth Project - Weather App</a> [HTML | CSS | JavaScript + Webpack + async API]
 - <a href="https://github.com/IlyaEru/TOP-Project-Battleship-game">Thirteenth Project - Battleship game</a> [HTML | CSS | JavaScript + Webpack + TDD with Jest]
 - <a href="https://github.com/IlyaEru/TOP-React-Project-CV-Application">Fourteenth Project - CV Application</a> [HTML | CSS | JavaScript + React]
+- <a href="https://github.com/IlyaEru/TOP-React-Project-Memory-Card">Fifteenth Project - Memory Card</a> [HTML | SASS | JavaScript + React]
+- <a href="https://github.com/IlyaEru/TOP-React-Project-Shopping-Cart">Sixteenth Project - Shopping Cart</a> [HTML | SASS | JavaScript + React]
 
 ## QA
 
